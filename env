@@ -1,0 +1,4 @@
+VITE_APP_LOGO=/logo.png
+VITE_APP_TITLE="Casas Backer"
+VITE_ANALYTICS_ENDPOINT="https://meu-endpoint.com"
+VITE_ANALYTICS_WEBSITE_ID="123456"
